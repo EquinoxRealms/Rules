@@ -8,8 +8,11 @@
 
 #Client Modifications
 Hacked/Ghost clients of any kind are not allowed on the network. Such hacks are, but not limited to, kill aura, trigger bot, fly hacks, aimbot, knockback modifiers, autoclickers, etc. Any hacked clients will result in a permanent ban from the network.
+
 Unapproved modifications of any kind are disallowed. You can see our approved mods list here. If caught with an unapproved modification, you will receive a 14 day ban, with a permanent ban to follow for a second offence.
+
 It is prohibited to use any third party program that directly interferes with the minecraft client which provides an unfair advantage to other users. Therefore, autoclickers, macros, multiple attack buttons, drag clicking, butterfly clicking, etc is not allowed. The general rule is one finger, one button, one click. Disobeying this rule will result in a permanent ban.
+
 Purposefully making yourself look as if you are hacking will result in the same punishment which the hack you were pretending to use has.
 
 
