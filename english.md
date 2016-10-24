@@ -11,7 +11,7 @@ Hacked/Ghost clients of any type are not allowed on the network. Such hacks are,
 
 Unapproved modifications of any kind are disallowed. You can view our approved mods list here. If caught with unapproved modifications which were not specified in the list, you will receive a 14 day ban, with a permanent ban to follow for a second offence.
 
-It is prohibited to use any third party program that directly interferes with the minecraft client which provides an unfair advantage to other users. Therefore you may never use, autoclickers, macros, multiple attack buttons, drag clicking, butterfly clicking, etc because it provides an advantage over others. The general rule is one finger, one button, one click. Disobeying this rule will result in a permanent ban from our server.
+It is prohibited to use any third party program that directly interferes with the minecraft client which provides an unfair advantage to other users. Therefore you may never use, autoclickers, macros, multiple attack buttons, drag clicking, butterfly clicking, etc. The general rule is one finger, one button, one click. Disobeying this rule will result in a permanent ban from our server.
 
 Purposefully making yourself look as if you are hacking will result in the same punishment as the hack you were pretending to use has.
 
