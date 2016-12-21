@@ -12,6 +12,7 @@ Hacked/Ghost clients of any type are not allowed on the network. Such hacks are,
 Unapproved modifications of any kind are disallowed. You can view our approved mods list below. If caught with unapproved modifications which were not specified in the list, you will receive a 14 day ban, with a permanent ban to follow for a second offence.
 
 Approved Mods:
+
  -Optifine
 - Status Effect HUD
 - Armor HUD
