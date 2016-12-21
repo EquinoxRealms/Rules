@@ -36,6 +36,7 @@ Purposefully making yourself look as if you are hacking will result in the same 
 #Chat rules
 
 1) Maintain a calm atmosphere at all times. Be respectful to all players and staff members. Any form of harrassment or bullying is stricly not allowed. 
+
 2) Advertisement of other minecraft services - Minecraft servers and their corresponding websites.
 
 
