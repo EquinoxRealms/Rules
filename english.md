@@ -10,8 +10,9 @@
 Hacked/Ghost clients of any type are not allowed on the network. Such hacks are, but not limited to, kill aura, trigger bot, fly hacks, aimbot, knockback modifiers, autoclickers, etc. Any hacked clients will result in a permanent ban from the network.
 
 Unapproved modifications of any kind are disallowed. You can view our approved mods list below. If caught with unapproved modifications which were not specified in the list, you will receive a 14 day ban, with a permanent ban to follow for a second offence.
+
 Approved Mods:
- Optifine
+ -Optifine
 - Status Effect HUD
 - Armor HUD
 - Direction HUD
