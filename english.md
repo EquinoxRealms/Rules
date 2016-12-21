@@ -13,7 +13,7 @@ Unapproved modifications of any kind are disallowed. You can view our approved m
 
 Approved Mods:
 
- -Optifine
+- Optifine
 - Status Effect HUD
 - Armor HUD
 - Direction HUD
