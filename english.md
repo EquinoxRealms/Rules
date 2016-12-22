@@ -54,7 +54,7 @@ Purposefully making yourself look as if you are hacking will result in the same 
 
 1) You must obey all instructions provided by Equinox staff members. 
 
-2) Encouraging players to break rules is not permitted. You will be held responsible for leading a player into inappropriate actions.
+2) Encouraging, helping or guiding players to break rules is not permitted. You will be held responsible for leading a player into inappropriate actions.
 
 3) Logging onto the network with alternative accounts to bypass your ban (also known as ban evading), is not allowed and will result in a permenant ban to all accounts which are associated with the originial account. 
 
