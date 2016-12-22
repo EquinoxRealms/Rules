@@ -37,10 +37,32 @@ Purposefully making yourself look as if you are hacking will result in the same 
 
 1) Maintain a calm atmosphere at all times. Be respectful to all players and staff members. Any form of harrassment or bullying is stricly not allowed. 
 
-2) Advertisement of other minecraft services - Minecraft servers and their corresponding websites and linking to social media content which promotes others Minecraft networks.
+2) Advertisement of other minecraft services - Minecraft servers and their corresponding websites and linking to social media content which promotes others Minecraft networks is stricly prohibited.
 
 3) 
 
+
+
+
+
+
+
+
+
+
+#Network Rules
+
+1) You must obey all instructions provided by Equinox staff members. 
+
+2) Encouraging players to break rules is not permitted. You will be held responsible for leading a player into inappropriate actions.
+
+3) Logging onto the network with alternative accounts to bypass your ban (also known as ban evading), is not allowed and will result in a permenant ban to all accounts which are associated with the originial account. 
+
+4) Do not impersonate an Equinox staff member or act as if you are a staff member.
+
+5) Abuse of a bug/exploit on the server intentionally for personal advantage over others, may result in a punishment (depending on the severity). We suggest that you email [email] with information regarding the potential exploit that has been discovered. 
+
+6) 
 
 
 
