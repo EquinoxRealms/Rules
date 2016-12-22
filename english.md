@@ -37,7 +37,7 @@ Purposefully making yourself look as if you are hacking will result in the same 
 
 1) Maintain a calm atmosphere at all times. Be respectful to all players and staff members. Any form of harrassment or bullying is stricly not allowed. 
 
-2) Advertisement of other minecraft services - Minecraft servers and their corresponding websites and linking to social media content which promotes others Minecraft networks is stricly prohibited.
+2) Advertisement of other minecraft services - Minecraft servers and their corresponding websites and linking to social media content which promotes others Minecraft networks is stricly not tolerated.
 
 3) 
 
@@ -52,9 +52,9 @@ Purposefully making yourself look as if you are hacking will result in the same 
 
 #Network Rules
 
-1) You must obey all instructions provided by Equinox staff members. 
+1) You must obey all instructions provided by Equinox staff members. If you believe a staff member is incorrectly punishing or using inappropriate methods, do not hesitate to email [email] and provide evidence and information regarding the staff member and the situation.
 
-2) Encouraging, helping or guiding players to break rules is not permitted. You will be held responsible for leading a player into inappropriate actions.
+2) Encouraging, helping or guiding players to break rules is not permitted. You will be held responsible for leading a player into prohibited actions.
 
 3) Logging onto the network with alternative accounts to bypass your ban (also known as ban evading), is not allowed and will result in a permenant ban to all accounts which are associated with the originial account. 
 
@@ -62,7 +62,7 @@ Purposefully making yourself look as if you are hacking will result in the same 
 
 5) Abuse of a bug/exploit on the server intentionally for personal advantage over others, may result in a punishment (depending on the severity). We suggest that you email [email] with information regarding the potential exploit that has been discovered. 
 
-6) 
+6) Threatening someone on any Equinox Realms platform, is strictly prohibited. Any form of DDos, death threats and dox are included as not permitted but are not limited to. 
 
 
 
