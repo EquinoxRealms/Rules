@@ -62,7 +62,7 @@ Purposefully making yourself look as if you are hacking will result in the same 
 
 5) Abuse of a bug/exploit on the server intentionally for personal advantage over others, may result in a punishment (depending on the severity). We suggest that you email [email] with information regarding the potential exploit that has been discovered. 
 
-6) Threatening someone on any Equinox Realms platform, is strictly prohibited. Any form of DDos, death threats and dox are included as not permitted but are not limited to. 
+6) Threatening someone on any Equinox Realms platform, is strictly prohibited. Any form of DDos, death threats and dox are examples which are not permitted but are not limited to. 
 
 
 
