@@ -33,7 +33,7 @@ It is prohibited to use any third party program that directly interferes with th
 
 Purposefully making yourself look as if you are hacking will result in the same punishment as the hack you were pretending to use has.
 
-#Chat rules
+#General conduct
 
 1) Maintain a calm atmosphere at all times. Be respectful to all players and staff members. Any form of harrassment or bullying is stricly not allowed. 
 
