@@ -35,12 +35,15 @@ Purposefully making yourself look as if you are hacking will result in the same 
 
 #General conduct
 
-1) Maintain a calm atmosphere at all times. Be respectful to all players and staff members. Any form of harrassment or bullying is stricly not allowed. 
+1) Maintain a calm atmosphere at all times. Be respectful to all players and staff members. Any form of harrassment, directed language, or bullying is stricly not allowed. 
 
-2) Advertisement of other minecraft services - Minecraft servers and their corresponding websites and linking to social media content which promotes others Minecraft networks is stricly not tolerated.
+2) Advertisement of other minecraft services - Minecraft servers and their corresponding websites or platforms and linking to social media content which promotes others Minecraft networks is stricly not tolerated.
 
-3) 
+3) Do not spam.
 
+4) Do not link to any inappropriate or objectionable material. This includes private and personal information, including confidential staff information.
+
+5) Do not scam (or mislead) players into doing actions that may disrupt them. This includes trickery to make players leave the match.
 
 
 
