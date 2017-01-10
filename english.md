@@ -38,7 +38,7 @@ Purposefully making yourself look as if you are hacking will result in the same 
 
 1) Maintain a calm atmosphere at all times. Be respectful to all players and staff members. Any form of harrassment, directed language, or bullying is stricly not allowed. 
 
-2) Do not spam.
+2) Do not spam (repeatedly sending undifferentiated or similar messages in order to annoy 
 
 3) Do not link to any inappropriate or objectionable material. This includes private and personal information, including confidential staff information.
 
