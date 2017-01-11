@@ -38,13 +38,15 @@ Purposefully making yourself look as if you are hacking will result in the same 
 
 1) Maintain a calm atmosphere at all times. Be respectful to all players and staff members. Any form of harrassment, directed language, or bullying is stricly not allowed. 
 
-2) Do not spam (repeatedly sending undifferentiated or similar messages in order to annoy 
+2) Do not spam (repeatedly sending undifferentiated or similar messages in order to annoy players).
 
 3) Do not link to any inappropriate or objectionable material. This includes private and personal information, including confidential staff information.
 
 4) Do not scam (or mislead) players into doing actions that may disrupt them. This includes trickery to make players leave the match.
 
+5) Hackusating is not allowed. If you believe someone is cheating, please use /report.
 
+6) Do not collaborate with the opposing team in any way.
 
 
 
