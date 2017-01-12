@@ -31,7 +31,7 @@ Approved Mods:
 
 If you have any further questions regarding the allowance of mods on our server, please direct them to a member of staff.
 
-It is prohibited to use any third party program that directly interferes with the Minecraft client which provides an unfair advantage to other users. Therefore you may never use, autoclickers, macros, multiple attack buttons, drag clicking, butterfly clicking, etc. The general rule is one finger, one button, one click. Disobeying this rule will result in a permanent ban from our server.
+It is prohibited to use any third party program that directly interferes with the Minecraft client which provides an unfair advantage to other users. Therefore, you may never use, autoclickers, macros, multiple attack buttons, drag clicking, butterfly clicking, etc. The general rule is one finger, one button, one click. Disobeying this rule will result in a permanent ban from our server.
 
 Purposefully making yourself look as if you are hacking will result in the same punishment as the hack you were pretending to use has.
 
@@ -73,7 +73,7 @@ Purposefully making yourself look as if you are hacking will result in the same 
 
 5) Abuse of a bug/exploit on the server intentionally for personal advantage over others, may result in a punishment (depending on the severity). We suggest that you create an issue at https://github.com/EquinoxRealms/Issues/issues with information regarding the potential exploit that has been discovered. 
 
-6) Threatening someone on any Equinox Realms platform, is strictly prohibited. Any form of DDos, death threats and dox are examples which are not permitted but are not limited to. 
+6) Threatening someone on any Equinox Realms platform is strictly prohibited. Any form of DDos, death threats and dox are examples which are not permitted but are not limited to. 
 
 7) Advertisement of other Minecraft services - Minecraft servers and their corresponding websites or platforms and linking to social media content which promotes others Minecraft networks is strictly not tolerated.
 
