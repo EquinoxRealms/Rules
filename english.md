@@ -48,7 +48,13 @@ Purposefully making yourself look as if you are hacking will result in the same 
 
 6) Do not collaborate with the opposing team in any way.
 
+7) Combat/Void logging (logging or leaving while in the process of dying) is not allowed.
 
+8) When you are on the observer (spectator) team, do not provide tactical information to players who are participating in the match. 
+
+9) Attempting to grief your own teams' structures and possessions is strictly not permitted.
+
+10) Killing or trying to kill your teammates is forbidden. 
 
 
 
