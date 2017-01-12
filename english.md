@@ -28,6 +28,7 @@ Approved Mods:
 - LabyMod 1.8
 - Gammabright
 - 5zig PvP Mod
+
 If you have any further questions regarding the allowance of mods on our server, please direct them to a member of staff.
 
 It is prohibited to use any third party program that directly interferes with the Minecraft client which provides an unfair advantage to other users. Therefore you may never use, autoclickers, macros, multiple attack buttons, drag clicking, butterfly clicking, etc. The general rule is one finger, one button, one click. Disobeying this rule will result in a permanent ban from our server.
